@@ -1,6 +1,6 @@
 # Python-Vim
 
-This is a document for setting up s Vim environment for Python and other languages developer.
+This is a document for setting up a Vim environment for Python and other languages developers.
 
 ### Install [Pretty-Vim-Python](https://github.com/pfdevilliers/Pretty-Vim-Python):
   - make sure that you already had .vim directory.
@@ -17,7 +17,7 @@ $ rm -rf Pretty-Vim-Python
 ```
 
 ### Change Vim environment setting
-Every developrs have their own Vim setting(.vimrc file), but I would like to recomment the following setting for you. You can easily add, delete, or change any setting values.
+Every developrs have their own Vim setting(.vimrc file), but I would like to recommend the following settings for you, especially colorscheme. You can easily add, delete, or change any setting values.
 
 ```
 set autoindent
